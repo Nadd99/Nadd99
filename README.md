@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nadd99 :)
+- 👋 Hi, I’m Nad :)
 - 👀 I’m interested in AI, Science and Engineering
 - 🌱 I’m currently learning Software Engineering
 - 📫 You can reach me throrough my personal email its.nadd99@gmail.com
